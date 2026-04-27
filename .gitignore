@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+conda-env/
+*.conda
+*.egg-info/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw electrophysiology / large data
+*.h5
+*.hdf5
+*.ncs
+*.ntt
+*.nev
+*.nse
+*.nvt
+*.raw
+*.dat
+*.bin
+*.mda
+
+# SpikeInterface / sorter outputs
+si_sorting/
+waveforms/
+unit_reports/
+sorter_comparison_*/
+*_sorting/
+*_waveforms/
+_neuralynx_staging/
+_si_tetrode_staging/
+
+# GUI analysis outputs
+quality_metrics.xlsx
+units_spike_times.xlsx
+curated_units*.xlsx
+units_flagged*.xlsx
+comparison_summary*.xlsx
+agreement_matrix*.csv
+agreement_heatmap*.png
+comparison_output_manifest.csv
+matched_pairs.csv
+unmatched_*.csv
+sorter_settings_used.json
+
+# Logs/temp
+*.log
+tmp/
+temp/
+*.tmp

@@ -1,0 +1,10 @@
+seaborn==0.13.2
+igraph==0.11.8
+leidenalg==0.10.2
+networkx==3.4.2
+optuna==3.6.1
+shap==0.44.1
+hdbscan==0.8.40
+
+torch-geometric==2.5.3
+torch-scatter==2.1.2

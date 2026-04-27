@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MEA/Neuralynx Spike Sorting GUI"
+type: software
+authors:
+  - family-names: "Khalifeh"
+    given-names: "Mohamed Rabieh"
+version: "1.0.0"
+date-released: "2026-04-27"
+license: "BSD-3-Clause"
+repository-code: "https://github.com/MohamedRabieh/mea-nlx-spike-sorting-gui"
+abstract: >
+  A Jupyter-based graphical workflow for loading MEA .h5 recordings and
+  Neuralynx .ncs tetrode recordings, performing channel-level QC, running
+  MountainSort4, Kilosort4, and SpyKING Circus2 through SpikeInterface,
+  computing quality metrics, exporting spike times, building unit reports,
+  comparing sorters, and performing two-pass unit curation.
+keywords:
+  - spike sorting
+  - electrophysiology
+  - MEA
+  - Neuralynx
+  - SpikeInterface
+  - MountainSort4
+  - Kilosort4
+  - SpyKING Circus2

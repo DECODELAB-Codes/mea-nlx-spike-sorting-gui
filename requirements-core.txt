@@ -1,5 +1,6 @@
 spikeinterface[full,widgets]==0.103.0
 mountainsort4==1.0.6
+kilosort[gui]
 probeinterface==0.3.0
 neo==0.14.2
 quantities==0.16.2

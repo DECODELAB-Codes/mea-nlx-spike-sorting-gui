@@ -47,8 +47,7 @@ mea-nlx-spike-sorting-gui/
 │   └── mea_nlx_clustering_ui_2026_04_27_v7.ipynb
 │
 ├── docs/
-│   ├── MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide_UPDATED.pdf
-│   └── MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide_UPDATED.docx
+│   ├── MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide.pdf
 │   └── troubleshoot.md
 
 ```

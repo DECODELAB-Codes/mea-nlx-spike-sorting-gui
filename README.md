@@ -373,5 +373,5 @@ Active code versions:
 ```text
 Core: MEA-Nlx Sorter python core_v4.py
 UI:   MEA-Nlx Clustering UI 04-27-26_v7.ipynb
-Guide: MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide_UPDATED
+Guide: MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide
 ```

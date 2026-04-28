@@ -49,9 +49,8 @@ mea-nlx-spike-sorting-gui/
 ├── docs/
 │   ├── MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide_UPDATED.pdf
 │   └── MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide_UPDATED.docx
-│
-└── examples/
-    └── README.md
+│   └── troubleshoot.md
+
 ```
 
 ---

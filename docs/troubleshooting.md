@@ -77,4 +77,4 @@ The full Visual Studio IDE is not strictly required if using the standalone Buil
 
 ## Status
 
-Resolved after installing the C++ build tools and rerunning the MountainSort4 installation.
+Resolved after installing the C++ build tools, restarting PC and rerunning the MountainSort4 installation.

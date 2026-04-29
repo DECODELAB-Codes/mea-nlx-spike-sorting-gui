@@ -42,12 +42,14 @@ mea-nlx-spike-sorting-gui/
 │
 ├── src/
 │   └── mea_nlx_sorter_core_v4.py
+│   └── mea_nlx_sorter_core_v6.py
 │
 ├── notebooks/
 │   └── mea_nlx_clustering_ui_2026_04_27_v7.ipynb
+│   └── mea_nlx_clustering_ui_v9.ipynb
 │
 ├── docs/
-│   ├── MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide.pdf
+│   ├── MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide_UPDATED 4-29-26.pdf
 │   └── troubleshoot.md
 
 ```
@@ -58,8 +60,8 @@ mea-nlx-spike-sorting-gui/
 
 | File | Purpose |
 |---|---|
-| `src/mea_nlx_sorter_core_v4.py` | Backend Python module containing loading, preprocessing, sorting, metrics, reporting, comparison, and curation functions. |
-| `notebooks/mea_nlx_clustering_ui_2026_04_27_v7.ipynb` | Jupyter GUI used by researchers. |
+| `src/mea_nlx_sorter_core_v6.py` | Backend Python module containing loading, preprocessing, sorting, metrics, reporting, comparison, and curation functions. |
+| `notebooks/mea_nlx_clustering_ui_v9.ipynb` | Jupyter GUI used by researchers. |
 | `docs/MEA_Neuralynx_Spike_Sorting_GUI_Researcher_Guide.pdf` | Full researcher-facing guide. |
 | `requirements-core.txt` | Required packages for the main GUI workflow. |
 | `requirements-optional.txt` | Optional packages for Kilosort4, graph/network analysis, and broader downstream analysis. |
